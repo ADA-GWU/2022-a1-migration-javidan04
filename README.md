@@ -1,7 +1,7 @@
 Hello! This file is instruction about how to run both Migration and Rollback codes.
 First, you need to download and install PostgreSQL in your device. This codes are written in InteliJ IDEA. I connected my environment with my database called DBMigration. 
 
-You need to pgAdmin 4. After downloading in IntelliJ IDEA you need to open these files and then connect database in right corner. In database field you need to choose PostgreSQL field. Name is DBMigration and username: postegros password: 12345. After that steps, codes will be connected to database and you will be able to run these codes.
+You need to pgAdmin 4. After downloading in IntelliJ IDEA you need to open these files and then connect database in right corner. In database field you need to choose PostgreSQL field. Name is DBMigration and username: postegros password: 12345. After that steps, codes will be connected to database and you will be able to run these codes. In order to run codes you need to highlight commands and press Run button. You will see successful message as an output.
 
 In createTables.sql file I created tables called "STUDENTS" and "INTERESTS".
 
